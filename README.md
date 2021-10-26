@@ -20,7 +20,7 @@ Output is saved as ORIGINALNAME.ORIGINALEXTENSION.GPKG
 
 ## License
 
-Simple BSD
+BSD-2-Clause License
 
 Buy me beer, host my website, or other gifts if you like it.
 
